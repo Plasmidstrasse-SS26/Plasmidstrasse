@@ -23,6 +23,42 @@
 
 ---
 
+##  Chemische Beständigkeit
+Die Daten basieren auf Labormessungen unter kontrollierten Bedingungen sowie einer wissenschaftlichen Veröffentlichung (1).
+
+| Bewertung | Einstufung | Kriterien & Beschreibung |
+| :---: | :--- | :--- |
+| **A** | Sehr gut widerstandsfähig | Das Polymer schmilzt nicht, nimmt keine Substanz auf und quillt auch nach einer Woche Eintauchen nicht auf (weniger als 1 % Gewichts- und Maßänderung). |
+| **B** | Mäßig bis gut widerstandsfähig | Leichte Schwellung oder Gewichtsveränderung (2 – 3 % Gewichts- oder Maßveränderung). |
+| **C** | Schlecht widerstandsfähig | Bei längerer Einwirkung des Polymers kommt es zu einer signifikanten Quellung und Gewichtsveränderung der Testprobe (4 – 5 % Gewichts- oder Maßänderung). |
+| **D** | Hält nicht stand | Zeigt eine erhebliche Gewichtsveränderung, eine starke Quellung (Veränderung des Gewichts oder der Abmessungen um mehr als 5 %) oder eine vollständige Zerstörung der Faser an (2). |
+
+---
+
+##  Chemische Beständigkeit aller Materialien (Vollständige Matrix)
+
+| Chemikalie / Stoff | PLA | PVB | PETG | ASA | ABS | PC | PA | PP |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Water** ($\text{H}_2\text{O}$) | A | A | A | A | B | A | A | A |
+| **IPA 75%** (Isopropyl alcohol, $\text{C}_3\text{H}_8\text{O}$) | C | D | A | B | B | B | A | A |
+| **IPA 99%** (Isopropyl alcohol, $\text{C}_3\text{H}_8\text{O}$) | C | D | B | B | B | B | A | A |
+| **Acetic acid 8%** (vinegar, $\text{C}_2\text{H}_4\text{O}_2$) | B | C | A | A | B | A | C | A |
+| **Sodium chloride 10%** (salt, $\text{NaCl}$) | B | B | A | B | A | A | A | A |
+| **Citric acid** ($\text{C}_6\text{H}_8\text{O}_7$) | B | B | A | A | - | A | B | A |
+| **Hydrochloric acid 37%** ($\text{HCl}$) | C | - | A | C | C | A | D | A |
+| **Hydrogen peroxide 30%** ($\text{H}_2\text{O}_2$) | B | - | A | A | A | A | D | A |
+| **Phosphoric acid 85%** ($\text{H}_3\text{PO}_4$) | C | - | C | - | A | A | D | A |
+| **Nitric acid 69%** ($\text{HNO}_3$) | D | - | D | - | A | D | D | A |
+| **Sulphuric acid 96%** ($\text{H}_2\text{SO}_4$) | D | - | D | - | - | D | D | A |
+| **Fridex \*** (Ethylene glycol, $\text{C}_2\text{H}_6\text{O}_2$) | B | B | A | A | - | A | - | - |
+| **Savo \*\*** 1:10 ($\text{NaClO}$) | B | B | A | A | - | B | A | A |
+| **Ethanol** ($\text{C}_2\text{H}_6\text{O}$) | C | D | B | B | A | B | A | A |
+| **Acetone** ($\text{C}_3\text{H}_6\text{O}$) | D | D | C | D | D | C | A | A |
+
+>  **Datenquelle:** Offizielle Messdaten bereitgestellt von [Prusament – Chemische Beständigkeit von Materialien für den 3D-Druck](https://prusament.com/de/chemische-bestaendigkeit-von-materialien-fuer-den-3d-druck/)
+
+---
+
 ## Technische Filament-Übersicht
 
 | Material / Brand | Hardware | Temperatures | Sheets | Physical Features & Pricing |
