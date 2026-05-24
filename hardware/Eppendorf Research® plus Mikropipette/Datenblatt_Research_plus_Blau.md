@@ -4,7 +4,7 @@ Diese Übersicht enthält die detaillierten technischen Spezifikationen und den 
 
 ---
 
-## 📊 Allgemeine Produktdaten
+## Allgemeine Produktdaten
 
 | Spezifikation | Wert |
 | :--- | :--- |
@@ -12,21 +12,21 @@ Diese Übersicht enthält die detaillierten technischen Spezifikationen und den 
 | **Pipettierungsart** | Luftpolstersystem |
 | **Anzahl an Kanälen** | 1-Kanal |
 | **Volumenbereich** | 100 – 1.000 µL |
-| **Farbcode** | Blau 🟦 |
+| **Farbcode** | Blau |
 | **Schrittweite Volumen** | 1 µL |
 | **Betriebsart** | Mechanisch |
 | **Verfederter Spitzenkonus** | Ja |
 | **Autoklavierbar** | Ja |
-| **ACT-Label** | Ja 🌱 |
+| **ACT-Label** | Ja |
 
-## 🧪 Verbrauchsmaterial
+## Verbrauchsmaterial
 
 * **Standard-Verbrauchsartikel:** epT.I.P.S.®
 * **Offenes System:** Ja *(Verbrauchsartikel von Drittanbietern können verwendet werden)*
 
 ---
 
-## 📈 Genauigkeit & Messabweichungen
+## Genauigkeit & Messabweichungen
 
 ### Zufällige Messabweichung¹
 * **100 µL:** ± 0,6 %; ± 0,6 µL
@@ -42,7 +42,7 @@ Diese Übersicht enthält die detaillierten technischen Spezifikationen und den 
 
 ---
 
-## 📦 Lieferumfang
+## Lieferumfang
 
 - [x] **Pipette** (Eppendorf Research® plus, 100 – 1.000 µL)
 - [x] **epT.I.P.S.® Box 2.0** Pipettenspitzen
