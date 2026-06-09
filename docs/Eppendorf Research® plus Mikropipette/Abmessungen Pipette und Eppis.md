@@ -38,3 +38,8 @@ Eine Übersicht der gemessenen Dimensionen für Eppendorf-Cups (Eppis) und Pipet
 * **Unten:** 3,70 mm
 * **Mitte:** 4,20 mm
 * **Ganz oben:** 5,68 mm
+
+###Druckpunkte
+* **Ausgefahren** 11.56
+*  **Erster Druckpunkt** 5.25
+*  **Zweiter Druckpunkt** 2.00
