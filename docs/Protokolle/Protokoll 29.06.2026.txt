@@ -1,0 +1,23 @@
+29.06.2026 Protokoll:
+Präsentation was gemacht wurde:
+-Issues Unterteilung CanBanBoard wurde nicht gemacht
+-Neue Issues wurden hinzugefügt
+-Roboterarm kann alle Positionen ansteuern und läuft in Schleife
+-Ablage und Annahme Pipette in Loop eingebaut
+-Neue Pipettenspitze kann aufgenommen werden von der neuen Position (aber nur in einer Reihe)
+-Spitzenabfall mit Zentrifugenmüll verwechselt muss gewechselt werden
+-Motor ist ansteuerbar
+-Präsentation des neues Mechanismus der Pipettenhalterung mit geringerem Gewicht und Problematik dass Motor nicht stark genug ist, Gewichtsverhältnis verändert damit nicht mehr zu schwer
+-Problemlösung mit Schneckengetriebe dafür Überarbeitung des Systems, größerer Motor zu schwer
+-Infill gerade 50% und Gewicht bei ~460g (vorher 560g bei 100% Infill)
+-Halterung sollte man nicht einmodellieren sondern hochkant anschrauben
+-Gewicht durch Schneckengetriebe wahrscheinlich nochmal höher
+-2. Roboter und 2. PC funktionieren nochmal
+
+Tasks:
+-Ummodellierung Halterung und Einbau Schneckengetriebe 
+-Roboter nach neuen Ablaufplan programmieren
+-Tasks CanBanBoard auffächern damit richtig dokumentierbar
+-Schauen ob Stempelvorrichtung für Eppis funktioniert und in Ablaufplan integrieren
+-6-8 Tubes für Ablaufplan rechnen
+-alle Tubes laufen parallel die Schritte durch-->Ablaufplan abändern
